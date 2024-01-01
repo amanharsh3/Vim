@@ -95,5 +95,5 @@ autocmd InsertLeave * set guicursor=
 " Tab for compiling and run C++ files (saves time)
 autocmd FileType cpp nnoremap <Tab> :w<CR>:!chmod +x ~/scripts/build.sh && ~/scripts/build.sh %:r<CR>
 
-" (run) for executing C++ files
+" use 'run' for executing C++ files
 autocmd FileType cpp nnoremap run :w<CR>:!./%:r<CR>
