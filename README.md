@@ -1,1 +1,1 @@
-![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
+![VIM](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/400px-Vimlogo.svg.png)
